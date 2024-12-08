@@ -11,7 +11,7 @@
 
 ## Professor
 
-- Will Machado
+- Will Ricardo dos Santos Machado
 
 ## Endereço dos Arquivos:
 <li><a href="arquivos">Arquivos</li>
