@@ -1,5 +1,0 @@
-# Vídeos Explicativos
-
-## Carlos
-
-## Otavio
