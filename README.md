@@ -15,3 +15,7 @@
 
 ## Endereço dos Arquivos:
 <li><a href="arquivos">Arquivos</li>
+
+## Link dos Videos:
+<li><a href="https://www.youtube.com/watch?v=CDTNekBBsnM&ab_channel=CarlosEduardoLeonel">Carlos</li>
+<li><a href="#">Otavio</li>
